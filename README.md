@@ -6,4 +6,5 @@ An investigation into cryptocurrency data from [CryptoCompare](https://min-api.c
 
 ### Examples
 Figure 1.) Clustered 3-D Plot
+
 ![](/Resources/Fig1.png)
