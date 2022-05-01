@@ -12,4 +12,4 @@ Figure 1.) Clustered 3-D Plot
 
 Figure 2.) Clustered Scatter Plot
 
-![](/Resources/Fig2.png)
+![](/Resources/Fig3.png)
