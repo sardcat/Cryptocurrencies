@@ -8,3 +8,8 @@ An investigation into cryptocurrency data from [CryptoCompare](https://min-api.c
 Figure 1.) Clustered 3-D Plot
 
 ![](/Resources/Fig1.png)
+
+
+Figure 2.) Clustered Scatter Plot
+
+![](/Resources/Fig2.png)
